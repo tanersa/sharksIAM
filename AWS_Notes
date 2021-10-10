@@ -20,10 +20,22 @@ cd .. - go to previous (Parent) directory
 cd ../.. - go to 2 previous directory (grandparent)
 code sharksIAM.txt - creates a text file on current directory
 ls - list all files and directories in current working directory 
+git add . - adding files in current directory
+. - hidden file or folder
+vi - Text editor in linux
+vim - Text editor in linux
 
+
+
+
+
+# We need to hide some files that we dont need to push 
+# Example: configuration files, secret and keys, 
 
 To intstall "code" command in PATH: 
 Command + Shift + P    ----> Then choose Install code command in PATH
+
+Git is api, client agent
 
 
 
