@@ -9,7 +9,7 @@ There are 4 IAM resources to create an IAM group policy in "Best Practice".
 3) Roles
 4) Policies/Permissions
 
-===============================================================
+==========================================================================================
 
 1) First, user groups should be created to be attached to policies later.
     - Click "Create Group" button on upper right hand side of the screen.
