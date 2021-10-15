@@ -9,6 +9,8 @@ There are 4 IAM resources to create an IAM group policy in "Best Practice".
 3) Roles
 4) Policies/Permissions
 
+============================================================================================================================================
+
 1) First, user groups should be created to be attached to policies later.
     - Click "Create Group" button on upper right hand side of the screen.
     - Name your group as needed to define group of users. 
@@ -68,6 +70,7 @@ All the users including newly created should be on the screen. Then go to user g
 
 Note: In order to test if those users have privilige for correct access, you may want to login as those users and verify their access.
       Read only users should not be able to start/stop the instances. Whereas admin or DevOps users would have that privilige.
+
 
 
 
