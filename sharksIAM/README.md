@@ -33,7 +33,6 @@ There are 4 IAM resources to create an IAM group policy in "**Best Practice**".
      Lastly, click on "Generate Policy" button to generate your own policy which will be inline policy. 
      Then copy the json file and close the modal on the page. 
     - Next, go back to create policy page for pasting JSON file that we just copied lately.
-    - Then copy that json file also known as "Boiler Plate" inside the box provided.
     - Click on "Next: Tags"
     - Hit "Next Review" and name the policy on next page.
     - Describe your policy to adress correct needs.
