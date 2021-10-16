@@ -1,5 +1,7 @@
 IAM GROUP POLICY UTILIZATION
 
+![] (images/IAM.png)
+
 In order for users to utilize AWS services, we must create IAM policies for IAM user groups then attach those policies to those user groups.
 
 There are 4 IAM resources to create an IAM group policy in "Best Practice". 
