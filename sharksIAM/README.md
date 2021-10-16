@@ -1,6 +1,6 @@
 **IAM GROUP POLICY UTILIZATION**
 
-![alt text](https://github.com/tanersa/iamgrouppolicies/blob/master/sharksIAM/images/IAM.png)
+![alt text](https://github.com/tanersa/iamgrouppolicies/blob/master/sharksIAM/IAM.png)
 
 In order for users to utilize AWS services, we must create IAM policies for IAM user groups then attach those policies to those user groups.
 
