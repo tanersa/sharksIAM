@@ -59,12 +59,14 @@ There are 4 IAM resources to create an IAM group policy in "**Best Practice**".
     - Hit on "Close" button. 
 
 
+
 4) Next step is that we need to attach above policies to user groups (not individual users) we just created. That means we are putting our policy in operation.
     - Go to "Policies" then check the radio button next to policy you would like to attach
     - Extend the "Actions" drop-down and choose Attach option..
     - Choose the group you want to attach. Then click on Attach policy.
     - Now policy is attached and on operation. 
     - Policies page would show this policy is used as "Permission Policy". 
+
 
 All the users including newly created ones should be on the screen. Then go to user groups page and that also should include newly created user groups. 
 
