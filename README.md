@@ -68,6 +68,7 @@ There are 4 IAM resources to create an IAM group policy in "**Best Practice**".
     - Policies page would show this policy is used as "Permission Policy". 
 
 
+
 All the users including newly created ones should be on the screen. Then go to user groups page and that also should include newly created user groups. 
 
 Note[^1].
