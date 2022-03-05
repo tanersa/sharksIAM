@@ -28,6 +28,7 @@
         "Effect": "Allow",
         "Action": "autoscaling:Describe*",
         "Resource": "*"
+            
         }
     ]
 }
